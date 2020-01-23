@@ -17,11 +17,11 @@ O que avaliaremos será a qualidade e reaproveitamento do seu código, component
 ## Como realizar o desafio
 
 -   Faça um fork deste repositório em seu GitHub
--   Descreva em seu Readme como executar seu projeto e quais as funcionalidades foram desenvolvidas, quais tecnologias usou e os motivos
--   Não há limite de tempo, porém iremos considerar sua entrega com base no tempo desde que foi feito o fork até o último commit
+-   Descreva em seu Readme como executar seu projeto e quais as funcionalidades que foram desenvolvidas, quais tecnologias usou e os motivos
+-   Não há limite de tempo, porém iremos contar o tempo desde que foi feito o fork até o último commit
+-   Em caso de dúvidas entre em contato com nicolas.troles@bornlogic.com
 -   Se quiser pode utilizar nosso pacote npm bornlogic-react-components em seu projeto
 -   Baseie-se na estilização que temos em nossas telas. Ex.: https://xd.adobe.com/view/448d218a-f3a0-4fba-60a1-a7df7447a55e-32bc/
--   Em caso de dúvidas entre em contato com nicolas.troles@bornlogic.com
 
 ## Requisitos
 
@@ -41,3 +41,9 @@ O que avaliaremos será a qualidade e reaproveitamento do seu código, component
 -   Utilização de ícones (recomendamos o fontawesome)
 -   Utilização de ES6+
 -   Utilização de React Hooks
+
+## E isso é tudo!
+
+Bom trabalho!! :D
+
+<img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" data-canonical-src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="200" height="200" />
