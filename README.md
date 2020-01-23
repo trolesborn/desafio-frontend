@@ -47,4 +47,4 @@ O que avaliaremos será a qualidade e reaproveitamento do seu código, component
 
 Bom trabalho!! :D
 
-<img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" data-canonical-src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="200" height="200" />
+<img src="https://media.tenor.com/images/1853551401047de91f248c6443fde3d8/tenor.gif" data-canonical-src="https://media.tenor.com/images/1853551401047de91f248c6443fde3d8/tenor.gif" width="120" height="120" />
