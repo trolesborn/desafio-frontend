@@ -14,6 +14,8 @@ Não esperamos que consiga finalizar o desafio por completo, visto que ele é ap
 
 O que avaliaremos será a qualidade e reaproveitamento do seu código, componentização, responsividade, o conhecimento das bibliotecas listadas e quantas funcionalidades você conseguirá entregar.
 
+Pode utilizar a biblioteca <a href="https://create-react-app.dev/docs/getting-started/" target='_blank'>create-react-app</a> para o desenvolvimento do desafio.
+
 ## Como realizar o desafio
 
 -   Faça um fork deste repositório em seu GitHub
@@ -21,7 +23,7 @@ O que avaliaremos será a qualidade e reaproveitamento do seu código, component
 -   Faça commits de acordo com o seu progresso no desenvolvimento, assim ficará mais claro a forma como você trabalha
 -   Não há limite de tempo, porém iremos contar o tempo desde que foi feito o fork até o último commit
 -   Em caso de dúvidas entre em contato com nicolas.troles@bornlogic.com
--   Se quiser pode utilizar nosso pacote npm [bornlogic-react-components](https://www.npmjs.com/package/bornlogic-react-components 'bornlogic-react-components') em seu projeto
+-   Se quiser pode utilizar nosso pacote npm <a href="https://www.npmjs.com/package/bornlogic-react-components" target='_blank'>bornlogic-react-components</a> em seu projeto
 -   Baseie-se na estilização que temos em nossas telas. Ex.: https://xd.adobe.com/view/448d218a-f3a0-4fba-60a1-a7df7447a55e-32bc/
 
 ## Requisitos
