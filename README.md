@@ -18,9 +18,10 @@ O que avaliaremos será a qualidade e reaproveitamento do seu código, component
 
 -   Faça um fork deste repositório em seu GitHub
 -   Descreva em seu Readme como executar seu projeto e quais as funcionalidades que foram desenvolvidas, quais tecnologias usou e os motivos
+-   Faça commits de acordo com o seu progresso no desenvolvimento, assim ficará mais claro a forma como você trabalha
 -   Não há limite de tempo, porém iremos contar o tempo desde que foi feito o fork até o último commit
 -   Em caso de dúvidas entre em contato com nicolas.troles@bornlogic.com
--   Se quiser pode utilizar nosso pacote npm bornlogic-react-components em seu projeto
+-   Se quiser pode utilizar nosso pacote npm [bornlogic-react-components](https://www.npmjs.com/package/bornlogic-react-components 'bornlogic-react-components') em seu projeto
 -   Baseie-se na estilização que temos em nossas telas. Ex.: https://xd.adobe.com/view/448d218a-f3a0-4fba-60a1-a7df7447a55e-32bc/
 
 ## Requisitos
@@ -29,7 +30,7 @@ O que avaliaremos será a qualidade e reaproveitamento do seu código, component
 -   Utilizar a API do Star Wars (https://swapi.co/) para criar a seguinte estrutura:
     -   Criar três páginas para listar em cada uma delas todos os **personagens, planetas e espécies** com _scroll infinito_ e _busca_;
     -   Ao clicar em um dos **personagens, planetas ou espécies** em suas páginas, abrir uma página exclusiva daquele item com o máximo de informações possíveis;
-    -   Dentro da página com as informações específicas de cada item, listar necessariamente os **personagens, planetas e espécies** correspondente aquele item.
+    -   Dentro da página com as informações específicas de cada item, listar necessariamente os **personagens, planetas e espécies** correspondente aquele item;
     -   Ao clicar neste item correspondente, levar para a página interna daquele item clicado.
 
 ## Adicionais que serão avaliados
