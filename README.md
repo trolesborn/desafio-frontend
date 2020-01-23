@@ -25,7 +25,7 @@ O que avaliaremos será a qualidade e reaproveitamento do seu código, component
 
 ## Requisitos
 
--   Utilização de React 16+ + Redux.
+-   Utilização de React + Redux.
 -   Utilizar a API do Star Wars (https://swapi.co/) para criar a seguinte estrutura:
     -   Criar três páginas para listar em cada uma delas todos os **personagens, planetas e espécies** com _scroll infinito_ e _busca_;
     -   Ao clicar em um dos **personagens, planetas ou espécies** em suas páginas, abrir uma página exclusiva daquele item com o máximo de informações possíveis;
